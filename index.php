@@ -1,0 +1,1 @@
+<?= StaticAsset::version('testfile.php'); ?>
